@@ -3,7 +3,7 @@ import Image from "next/image";
 const AboutMe = () => {
     return(
         <>
-            <div className="flex flex-col max-w-screen-md gap-10">
+            <div className="text-center flex flex-col max-w-screen-md gap-10 p-4">
                 <div>
                     <h1>QUEM SOU EU</h1>
                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit aut quasi, inventore error, nesciunt, laudantium molestiae at nulla quibusdam praesentium labore delectus vero aperiam animi dolorum alias aliquam corrupti mollitia!</p>
