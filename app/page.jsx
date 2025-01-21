@@ -1,9 +1,10 @@
 import Image from "next/image";
 import Header from "./components/header";
-import UpperMenu from "./components/uppermenu";
+import UpperMenu from "./components/UpperMenu";
 import HeroSection from "./components/HeroSection";
 import MyGallery from "./components/MyGallery";
-import Carousel from "./components/carousel";
+import Carousel from "./components/Carousel";
+import AboutMe from "./components/AboutMe";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
         <HeroSection />
         <MyGallery />
         <Carousel />
+        <AboutMe />
       </main>
     </div>
   );
