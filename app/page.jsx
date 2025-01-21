@@ -1,9 +1,9 @@
 
 import Header from "./components/header";
-import UpperMenu from "./components/UpperMenu";
+import UpperMenu from "./components/uppermenu";
 import HeroSection from "./components/HeroSection";
 import MyGallery from "./components/MyGallery";
-import Carousel from "./components/Carousel";
+import Carousel from "./components/carousel";
 import AboutMe from "./components/AboutMe";
 
 export default function Home() {
