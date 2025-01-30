@@ -3,7 +3,7 @@ import FrankVideo from "./FrankVideo";
 const AboutMe = () => {
     return(
         <>
-            <div className="text-center flex flex-col max-w-screen gap-10 mt-6">
+            <div className="text-center flex flex-col max-w-screen gap-10 mt-6 mb-24">
                 <div>
                     <h1 className="mb-4 bg-white p-4 text-black text-2xl">QUEM SOU EU</h1>
                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit aut quasi, inventore error, nesciunt, laudantium molestiae at nulla quibusdam praesentium labore delectus vero aperiam animi dolorum alias aliquam corrupti mollitia!</p>
