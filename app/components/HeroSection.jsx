@@ -1,4 +1,4 @@
-import ButtonCTA from "./Button";
+import ButtonCTA from "./button";
 import Image from "next/image";
 
 const HeroSection = () => (

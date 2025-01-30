@@ -1,4 +1,4 @@
-import FrankVideo from "./FrankVideo";
+import FrankVideo from "./frankVideo";
 
 const AboutMe = () => {
     return (
